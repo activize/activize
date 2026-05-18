@@ -4,11 +4,18 @@
 
 <br/><br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;`░ nevada`&nbsp;&nbsp;&nbsp;&nbsp;—&nbsp;&nbsp;&nbsp;&nbsp;*Owner & Founder:*&nbsp;&nbsp;&nbsp;&nbsp;**[nevada.onl](https://nevada.onl)**
+&nbsp;&nbsp;&nbsp;&nbsp;`░ nevada`&nbsp;&nbsp;&nbsp;&nbsp;—&nbsp;&nbsp;&nbsp;&nbsp;*nothing to see here.*&nbsp;&nbsp;&nbsp;&nbsp;**[nevada.onl](https://nevada.onl)**
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;`░ response`&nbsp;&nbsp;&nbsp;&nbsp;—&nbsp;&nbsp;&nbsp;&nbsp;*Owner & Founder:*&nbsp;&nbsp;&nbsp;&nbsp;**[response.wtf](https://response.wtf)**
+&nbsp;&nbsp;&nbsp;&nbsp;`░ response`&nbsp;&nbsp;&nbsp;&nbsp;—&nbsp;&nbsp;&nbsp;&nbsp;*they said they patched it. it still works.*&nbsp;&nbsp;&nbsp;&nbsp;**[response.wtf](https://response.wtf)**
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/bypassed%20the%20unbypassable%20%20%2F%20%20detected%20the%20undetectable-8B0000?style=for-the-badge&labelColor=0d0d0d&color=3d0000"/>
+  <img src="https://img.shields.io/badge/bypassed%20the%20unbypassable%20%20%2F%20%20detected%20the%20undetectable-8B0000?style=for-the-badge&labelColor=0d0d0d&color=3d0000"/>
+</picture>
 
 <br/><br/>
 
