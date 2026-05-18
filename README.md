@@ -12,12 +12,9 @@
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/bypassed%20the%20unbypassable%20%20%2F%20%20detected%20the%20undetectable-8B0000?style=for-the-badge&labelColor=0d0d0d&color=3d0000"/>
-  <img src="https://img.shields.io/badge/bypassed%20the%20unbypassable%20%20%2F%20%20detected%20the%20undetectable-8B0000?style=for-the-badge&labelColor=0d0d0d&color=3d0000"/>
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=14&pause=2000&color=8B0000&center=true&width=600&lines=bypassed+the+unbypassable.;detected+the+undetectable."/>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B0000,50:3d0000,100:0d0d0d&height=100&section=footer&animation=fadeIn"/>
 
