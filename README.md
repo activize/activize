@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**activize/activize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:3d0000,100:8B0000&height=200&text=activize&fontColor=f0e6d3&fontSize=72&animation=fadeIn&fontAlignY=55&desc=forensics%20%2B%20anti-forensics&descAlignY=75&descSize=16&descFontColor=8B0000"/>
 
-Here are some ideas to get you started:
+<br/><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;&nbsp;&nbsp;&nbsp;`░ nevada`&nbsp;&nbsp;&nbsp;&nbsp;—&nbsp;&nbsp;&nbsp;&nbsp;*Owner & Founder:*&nbsp;&nbsp;&nbsp;&nbsp;**[nevada.onl](https://nevada.onl)**
+
+<br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;`░ response`&nbsp;&nbsp;&nbsp;&nbsp;—&nbsp;&nbsp;&nbsp;&nbsp;*Owner & Founder:*&nbsp;&nbsp;&nbsp;&nbsp;**[response.wtf](https://response.wtf)**
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B0000,50:3d0000,100:0d0d0d&height=100&section=footer&animation=fadeIn"/>
+
+</div>
