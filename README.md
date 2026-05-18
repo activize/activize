@@ -4,11 +4,11 @@
 
 <br/><br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;`░ nevada`&nbsp;&nbsp;&nbsp;&nbsp;—&nbsp;&nbsp;&nbsp;&nbsp;*nothing to see here.*&nbsp;&nbsp;&nbsp;&nbsp;**[nevada.onl](https://nevada.onl)**
+&nbsp;&nbsp;&nbsp;&nbsp;`░ nevada`&nbsp;&nbsp;&nbsp;&nbsp;—&nbsp;&nbsp;&nbsp;&nbsp;*Owner & Founder:*&nbsp;&nbsp;&nbsp;&nbsp;**[nevada.onl](https://nevada.onl)**
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;`░ response`&nbsp;&nbsp;&nbsp;&nbsp;—&nbsp;&nbsp;&nbsp;&nbsp;*they said they patched it. it still works.*&nbsp;&nbsp;&nbsp;&nbsp;**[response.wtf](https://response.wtf)**
+&nbsp;&nbsp;&nbsp;&nbsp;`░ response`&nbsp;&nbsp;&nbsp;&nbsp;—&nbsp;&nbsp;&nbsp;&nbsp;*Owner & Founder:*&nbsp;&nbsp;&nbsp;&nbsp;**[response.wtf](https://response.wtf)**
 
 <br/><br/>
 
