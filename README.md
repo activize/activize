@@ -16,6 +16,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B0000,50:3d0000,100:0d0d0d&height=100&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B0000,50:3d0000,100:111111&height=80&section=footer&animation=fadeIn"/>
 
 </div>
